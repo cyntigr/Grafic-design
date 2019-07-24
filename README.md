@@ -19,6 +19,6 @@
 <img src="img/IMG_20190724_154113.jpg" width="320px">
 <img src="img/IMG_20190724_154206.jpg" width="320px">
 <img src="img/IMG_20190724_154253.jpg	" width="320px">
-<img src="img/IMG_20190724_154326.jpg	" width="320px">
-<img src="img/IMG_20190724_154345.jpg	" width="320px">
-<img src="img/IMG_20190724_154404.jpg	" width="320px">
+<img src="img/IMG_20190724_154326.jpg	" width="500px">
+<img src="img/IMG_20190724_154345.jpg	" width="500px">
+<img src="img/IMG_20190724_154404.jpg	" width="500px">
