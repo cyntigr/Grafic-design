@@ -10,4 +10,4 @@
 
 * Libro cocina: Libro de recetas para proyecto final de maquetación, las ilustraciones son todas propias.
 
-* Tipografía : Es una tipografia creada desde cero como proyecto de clase.
+* Tipografía personalizada : Es una tipografia creada desde cero como proyecto de clase.
