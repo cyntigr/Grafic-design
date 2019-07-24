@@ -4,6 +4,8 @@
 
 * Imagen corporativa Alquímia: Diseño del logotipo y los flayers de publicidad, para academia de estudios.
 
+<img src="Logotipo Alquimia.png" width="300px">
+
 * Bodegón de pluma y reloj: Ilustraciones digitales con photoshop, trabajos de clase.
 
 * Manual corporativo: Manual de imagen corporativa de horus logotipo creado para estudio de tatuajes.
@@ -22,3 +24,5 @@
 <img src="img/IMG_20190724_154326.jpg" width="500px">
 <img src="img/IMG_20190724_154345.jpg" width="500px">
 <img src="img/IMG_20190724_154404.jpg" width="500px">
+
+
